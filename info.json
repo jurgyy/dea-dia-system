@@ -22,6 +22,7 @@
     "? Better_Starmap_Background",
     "? dredgeworks >= 0.7.4",
     "? atan-nuclear-science",
+    "? canal-excavator >= 1.12",
     "! fixLargeElectricPole"
   ],
   "space_travel_required": true,

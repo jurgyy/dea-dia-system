@@ -96,3 +96,5 @@ if tech and tech.effects then
         end
     end
 end
+
+require("compatibility.canal-excavator")
